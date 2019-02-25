@@ -2,7 +2,7 @@
 
 <DJ_PLAYLISTS Version="1.0.0">
   <PRODUCT Name="rekordbox" Version="5.4.3" Company="Pioneer DJ"/>
-  <COLLECTION Entries="3357">
+  <COLLECTION Entries="3358">
     <TRACK TrackID="57" Name="Diamonds (Extended Mix)" Artist="Afrojack &amp; Jay Karama"
            Composer="" Album="Diamonds - Extended Mix [vk.com/speeeedy]"
            Grouping="" Genre="Trap dubstep" Kind="MP3 File" Size="9987616"
@@ -35442,9 +35442,11 @@
                      Blue="146"/>
       <POSITION_MARK Name="" Type="0" Start="50.648" Num="3" Red="255" Green="18"
                      Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="140.648" Num="4" Red="255" Green="18"
-                     Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="180.023" Num="5" Red="100" Green="115"
+      <POSITION_MARK Name="" Type="0" Start="52.523" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="142.523" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="180.023" Num="6" Red="100" Green="115"
                      Blue="255"/>
     </TRACK>
     <TRACK TrackID="5386" Name="Keanu Silva - King Of My Castle (Don Diablo Edit) www.my-free-mp3.net "
@@ -35462,10 +35464,10 @@
                      Blue="146"/>
       <POSITION_MARK Name="" Type="0" Start="59.597" Num="3" Red="255" Green="18"
                      Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="138.317" Num="4" Red="31" Green="163"
-                     Blue="146"/>
-      <POSITION_MARK Name="" Type="0" Start="151.757" Num="5" Red="255" Green="18"
-                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="61.476" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="153.677" Num="5" Red="180" Green="190"
+                     Blue="4"/>
       <POSITION_MARK Name="" Type="0" Start="199.757" Num="6" Red="100" Green="115"
                      Blue="255"/>
     </TRACK>
@@ -35524,10 +35526,10 @@
                      Blue="146"/>
       <POSITION_MARK Name="" Type="0" Start="63.896" Num="3" Red="255" Green="18"
                      Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="178.089" Num="4" Red="31" Green="163"
-                     Blue="146"/>
-      <POSITION_MARK Name="" Type="0" Start="191.638" Num="5" Red="255" Green="18"
-                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="65.831" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="193.573" Num="5" Red="180" Green="190"
+                     Blue="4"/>
       <POSITION_MARK Name="" Type="0" Start="270.992" Num="6" Red="100" Green="115"
                      Blue="255"/>
     </TRACK>
@@ -35543,12 +35545,12 @@
       <POSITION_MARK Name="" Type="0" Start="0.024" Num="-1"/>
       <POSITION_MARK Name="" Type="0" Start="60.977" Num="1" Red="40" Green="226"
                      Blue="20"/>
-      <POSITION_MARK Name="" Type="0" Start="89.548" Num="2" Red="255" Green="18"
-                     Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="180.977" Num="3" Red="255" Green="18"
-                     Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="272.405" Num="4" Red="255" Green="18"
-                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="91.453" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="182.881" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="274.310" Num="4" Red="180" Green="190"
+                     Blue="4"/>
       <POSITION_MARK Name="" Type="0" Start="335.262" Num="5" Red="100" Green="115"
                      Blue="255"/>
     </TRACK>
@@ -35581,11 +35583,13 @@
       <TEMPO Inizio="0.080" Bpm="124.00" Metro="4/4" Battito="4"/>
       <POSITION_MARK Name="" Type="0" Start="0.080" Num="-1"/>
       <POSITION_MARK Name="" Type="0" Start="0.080" Num="0" Red="40" Green="226" Blue="20"/>
-      <POSITION_MARK Name="" Type="0" Start="29.596" Num="1" Red="255" Green="18"
-                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="31.531" Num="1" Red="180" Green="190"
+                     Blue="4"/>
       <POSITION_MARK Name="" Type="0" Start="122.499" Num="2" Red="255" Green="18"
                      Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="170.886" Num="3" Red="100" Green="115"
+      <POSITION_MARK Name="" Type="0" Start="124.435" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="170.886" Num="4" Red="100" Green="115"
                      Blue="255"/>
     </TRACK>
     <TRACK TrackID="5393" Name="Panic! At The Disco - High Hopes (Don Diablo Extended Remix) www.my-free-mp3.net "
@@ -35666,9 +35670,13 @@
                      Blue="146"/>
       <POSITION_MARK Name="" Type="0" Start="155.711" Num="3" Red="255" Green="18"
                      Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="234.399" Num="4" Red="255" Green="18"
+      <POSITION_MARK Name="" Type="0" Start="157.678" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="234.399" Num="5" Red="255" Green="18"
                      Blue="123"/>
-      <POSITION_MARK Name="" Type="0" Start="332.760" Num="5" Red="100" Green="115"
+      <POSITION_MARK Name="" Type="0" Start="238.334" Num="6" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="332.760" Num="7" Red="100" Green="115"
                      Blue="255"/>
     </TRACK>
     <TRACK TrackID="5397" Name="Tujamo - Get Up (WCM) www.my-free-mp3.net "
@@ -36212,8 +36220,21 @@
            Year="0" AverageBpm="124.00" DateAdded="2019-02-21" BitRate="320"
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Alesso%20-%20Tilted%20Towers%20(Extended%20Mix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="G" Label="" Mix="">
-      <TEMPO Inizio="0.292" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.050" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.050" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.292" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="123.921" Num="1" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="139.405" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="317.470" Num="3" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="331.018" Num="4" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="332.954" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="379.406" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5428" Name="Alesso - Tilted Towers (Original Mix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36251,6 +36272,15 @@
            Remixer="" Tonality="Gm" Label="" Mix="">
       <TEMPO Inizio="0.200" Bpm="124.00" Metro="4/4" Battito="3"/>
       <POSITION_MARK Name="" Type="0" Start="0.684" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.167" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="47.619" Num="1" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="80.522" Num="2" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="125.039" Num="3" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="157.942" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5432" Name="Big Shaq - Man&apos;s Not Hot www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36260,7 +36290,16 @@
            Remixer="" Tonality="Em" Label="" Mix="">
       <TEMPO Inizio="0.250" Bpm="135.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="0.695" Bpm="135.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.250" Num="0" Red="40" Green="226" Blue="20"/>
       <POSITION_MARK Name="" Type="0" Start="0.250" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="59.361" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="99.806" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="144.694" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="158.472" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5433" Name="Black Caviar - Freak Like Me (WCM) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36271,7 +36310,18 @@
       <TEMPO Inizio="0.025" Bpm="118.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="237.990" Bpm="118.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="248.160" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.025" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.025" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="15.787" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="50.872" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="115.957" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="181.041" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="230.363" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5434" Name="Bon Jovi - It&apos;s My Life (VINNE &amp; Zerky Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36280,7 +36330,18 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Bon%20Jovi%20-%20It%27s%20My%20Life%20(VINNE%20%26%20Zerky%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Cm" Label="" Mix="">
       <TEMPO Inizio="0.047" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.047" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.047" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="31.267" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="58.584" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="62.486" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="177.608" Num="4" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="243.949" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5435" Name="Busta Rhymes - I Know What You Want (Alexander Holsten Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36298,7 +36359,16 @@
            SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Calvin%20Harris%20%26%20Rag%27n%27Bone%20Man%20-%20Giant%20(Pink%20Panda%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="F#m" Label="" Mix="">
       <TEMPO Inizio="0.022" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.022" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.022" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.022" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="90.990" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="168.409" Num="3" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="216.797" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5437" Name="Calypso (Elliott Kay Remix) MP3" Artist="Round Table Knights"
            Composer="" Album="www.djelliottkay.com" Grouping="" Genre="Tech House"
@@ -36310,7 +36380,18 @@
       <TEMPO Inizio="0.024" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="0.977" Bpm="126.00" Metro="4/4" Battito="3"/>
       <TEMPO Inizio="348.595" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.024" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.024" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="137.167" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="228.595" Num="2" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="287.642" Num="3" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="291.452" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="398.118" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5438" Name="Camel-Phat-_-Elderbrook---Cola-_KVSH-Bootleg_"
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36330,6 +36411,19 @@
            Remixer="" Tonality="Dm" Label="" Mix="">
       <TEMPO Inizio="0.051" Bpm="128.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.051" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.051" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="30.051" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="67.551" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="80.676" Num="3" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="82.551" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="161.301" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="191.300" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5440" Name="Cat Dealers - Your Body (Original Mix) [Bass.prod. by Rekram] www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36338,7 +36432,18 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Cat%20Dealers%20-%20Your%20Body%20(Original%20Mix)%20%5bBass.prod.%20by%20Rekram%5d%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Dm" Label="" Mix="">
       <TEMPO Inizio="0.055" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.055" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.055" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="46.506" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="123.440" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="138.924" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="258.437" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="304.888" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5441" Name="Christina Milian - When You Look At Me www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36377,6 +36482,19 @@
            Remixer="" Tonality="E" Label="" Mix="">
       <TEMPO Inizio="0.079" Bpm="128.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.079" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.079" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="30.079" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="108.829" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="121.954" Num="3" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="123.829" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="262.579" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="307.579" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5444" Name="DJ Snake, Lauv - A Different Way (Zuffo &amp; Borgges Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36385,7 +36503,18 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/DJ%20Snake,%20Lauv%20-%20A%20Different%20Way%20(Zuffo%20%26%20Borgges%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Fm" Label="" Mix="">
       <TEMPO Inizio="0.051" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.051" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.051" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="46.880" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="91.758" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="93.709" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="206.880" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="265.417" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5445" Name="DMX - X Gon&apos; Give It To Ya www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36410,7 +36539,7 @@
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
            Size="10068939" TotalTime="251" DiscNumber="0" TrackNumber="0"
            Year="0" AverageBpm="120.00" DateAdded="2019-02-21" BitRate="320"
-           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Drake%20-%20In%20My%20Feelings%20(Lucky%20Luke%20Remix)%20www.my-free-mp3.net%20.mp3"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="51" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Drake%20-%20In%20My%20Feelings%20(Lucky%20Luke%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Cm" Label="" Mix="">
       <TEMPO Inizio="0.058" Bpm="120.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.058" Num="-1"/>
@@ -36423,7 +36552,18 @@
            Remixer="" Tonality="Em" Label="" Mix="">
       <TEMPO Inizio="0.050" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="0.527" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.050" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.050" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.527" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="64.812" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="110.527" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="175.289" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="205.765" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5449" Name="Dreaming" Artist="Dynoro" Composer="" Album="Dynoro"
            Grouping="" Genre="" Kind="MP3 File" Size="9246988" TotalTime="231"
@@ -36433,6 +36573,15 @@
            Remixer="" Tonality="Bm" Label="" Mix="">
       <TEMPO Inizio="0.072" Bpm="128.00" Metro="4/4" Battito="4"/>
       <POSITION_MARK Name="" Type="0" Start="0.072" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.541" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.541" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="105.541" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="167.416" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="4" Start="199.291" End="203.041" Num="4" Red="255"
+                     Green="140" Blue="0"/>
     </TRACK>
     <TRACK TrackID="5450" Name="Dynoro - HANGOVER (Dynoro Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36442,6 +36591,15 @@
            Remixer="" Tonality="Cm" Label="" Mix="">
       <TEMPO Inizio="0.152" Bpm="128.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.621" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="2.028" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="16.559" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="39.528" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="113.121" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="142.653" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5451" Name="Els, Jonas Aden - - Blackbird (Extended Mix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36451,15 +36609,37 @@
            Remixer="" Tonality="Am" Label="" Mix="">
       <TEMPO Inizio="0.025" Bpm="126.00" Metro="4/4" Battito="4"/>
       <POSITION_MARK Name="" Type="0" Start="0.501" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.501" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="30.977" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="69.072" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="84.310" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="160.500" Num="4" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="162.405" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="192.881" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5452" Name="Eminem - Without me (Hardwell remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
            Size="7298656" TotalTime="182" DiscNumber="0" TrackNumber="0"
-           Year="0" AverageBpm="112.87" DateAdded="2019-02-21" BitRate="320"
+           Year="0" AverageBpm="128.00" DateAdded="2019-02-21" BitRate="320"
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Eminem%20-%20Without%20me%20(Hardwell%20remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="G" Label="" Mix="">
-      <TEMPO Inizio="0.108" Bpm="112.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.049" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.049" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.108" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="15.049" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="98.955" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="113.955" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="143.955" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5453" Name="Example - All Night www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36504,7 +36684,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Format_B%20-%20Chunky%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="F" Label="" Mix="">
       <TEMPO Inizio="0.080" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.080" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.080" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="141.720" Num="1" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="157.458" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="251.884" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="299.097" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5457" Name="Game of Thrones (KSHMR &amp; The Golden Army Remix)"
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36513,7 +36702,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Game%20of%20Thrones%20(KSHMR%20%26%20The%20Golden%20Army%20Remix).mp3"
            Remixer="" Tonality="F#m" Label="" Mix="">
       <TEMPO Inizio="0.051" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.051" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.051" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.051" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="97.551" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="198.801" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="228.801" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5458" Name="Gianluca Vacchi - Viento (Extended Mix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36524,12 +36722,25 @@
       <TEMPO Inizio="0.025" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="0.502" Bpm="126.00" Metro="4/4" Battito="2"/>
       <POSITION_MARK Name="" Type="0" Start="0.025" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.025" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="45.740" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="83.835" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="129.549" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="219.073" Num="4" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="220.978" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="251.454" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5459" Name="Gorillaz - Feel Good (KVSH Bootleg) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
            Size="18325578" TotalTime="458" DiscNumber="0" TrackNumber="0"
            Year="0" AverageBpm="124.00" DateAdded="2019-02-21" BitRate="320"
-           SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Gorillaz%20-%20Feel%20Good%20(KVSH%20Bootleg)%20www.my-free-mp3.net%20.mp3"
+           SampleRate="48000" Comments="" PlayCount="0" Rating="51" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Gorillaz%20-%20Feel%20Good%20(KVSH%20Bootleg)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Eb" Label="" Mix="">
       <TEMPO Inizio="0.218" Bpm="124.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.218" Num="-1"/>
@@ -36546,18 +36757,28 @@
     <TRACK TrackID="5461" Name="Hellberg &amp; Leona Lewis - Headlights (Madison Mars Extended Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
            Size="9438607" TotalTime="235" DiscNumber="0" TrackNumber="0"
-           Year="0" AverageBpm="124.19" DateAdded="2019-02-21" BitRate="320"
+           Year="0" AverageBpm="125.49" DateAdded="2019-02-21" BitRate="320"
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Hellberg%20%26%20Leona%20Lewis%20-%20Headlights%20(Madison%20Mars%20Extended%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="F#" Label="" Mix="">
-      <TEMPO Inizio="0.139" Bpm="124.19" Metro="4/4" Battito="3"/>
-      <TEMPO Inizio="41.204" Bpm="124.19" Metro="4/4" Battito="4"/>
-      <TEMPO Inizio="75.022" Bpm="124.19" Metro="4/4" Battito="2"/>
-      <TEMPO Inizio="104.975" Bpm="124.19" Metro="4/4" Battito="4"/>
-      <TEMPO Inizio="138.310" Bpm="124.19" Metro="4/4" Battito="1"/>
-      <TEMPO Inizio="168.263" Bpm="124.19" Metro="4/4" Battito="3"/>
-      <TEMPO Inizio="198.216" Bpm="124.19" Metro="4/4" Battito="1"/>
-      <TEMPO Inizio="232.034" Bpm="124.19" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="0.135" Bpm="125.49" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="38.384" Bpm="125.49" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="65.158" Bpm="125.49" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="91.932" Bpm="125.49" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="123.009" Bpm="125.49" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="149.783" Bpm="125.49" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="176.557" Bpm="125.49" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="207.634" Bpm="125.49" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="234.408" Bpm="125.49" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.105" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="1.105" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="32.024" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="76.335" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="186.410" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="217.113" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5462" Name="House Of Pain - Jump Around www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36582,17 +36803,29 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Kaskade%20-%20Tight%20feat.%20Madge%20(J.%20Worra%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="E" Label="" Mix="">
       <TEMPO Inizio="0.039" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.000" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.039" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="31.077" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="63.005" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="170.323" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="232.269" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5464" Name="Ke$ha - Tik Tok  - (STKD RMX)" Artist=""
            Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="15976563"
            TotalTime="399" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="125.00"
            DateAdded="2019-02-21" BitRate="320" SampleRate="44100" Comments=""
-           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Ke$ha%20-%20Tik%20Tok%20%20-%20(STKD%20RMX).mp3"
+           PlayCount="0" Rating="51" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Ke$ha%20-%20Tik%20Tok%20%20-%20(STKD%20RMX).mp3"
            Remixer="" Tonality="Dm" Label="" Mix="">
       <TEMPO Inizio="0.024" Bpm="125.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="399.383" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.000" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.024" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="61.381" Num="1" Red="40" Green="226"
+                     Blue="20"/>
     </TRACK>
     <TRACK TrackID="5465" Name="Keanu Silva - Fine Day (BLR Extended Remix) (WCM) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36602,6 +36835,18 @@
            Remixer="" Tonality="F#m" Label="" Mix="">
       <TEMPO Inizio="0.135" Bpm="120.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.135" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="16.126" Num="0" Red="222" Green="68"
+                     Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="48.206" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="78.081" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="80.136" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="240.070" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="290.138" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5466" Name="Keanu Silva - Fine Day (Extended Mix) [PartyUp!] www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36610,7 +36855,14 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Keanu%20Silva%20-%20Fine%20Day%20(Extended%20Mix)%20%5bPartyUp!%5d%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="F#m" Label="" Mix="">
       <TEMPO Inizio="0.056" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.000" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.056" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.757" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="84.524" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="176.631" Num="3" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5467" Name="Kodak Black feat. Offset, Travis Scott - ZEZE (feat. Travis Scott &amp; Offset) www.my-free-mp3.net  (1)"
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36675,6 +36927,13 @@
       <TEMPO Inizio="204.842" Bpm="131.00" Metro="4/4" Battito="4"/>
       <TEMPO Inizio="205.301" Bpm="131.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.568" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.942" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="40.416" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="84.385" Num="2" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="157.667" Num="3" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5471" Name="Move Bitch (Paul Dluxx Remix)" Artist="Ludacris"
            Composer="" Album="" Grouping="" Genre="House" Kind="MP3 File"
@@ -36684,7 +36943,18 @@
            Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Ludacris%20-%20Move%20Bitch%20(Paul%20Dluxx%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Dbm" Label="" Mix="">
       <TEMPO Inizio="0.079" Bpm="125.88" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="0.079" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.079" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="37.259" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="71.102" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="86.355" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="176.921" Num="4" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="206.688" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5472" Name="Malumup - G U C C I" Artist="" Composer=""
            Album="" Grouping="" Genre="" Kind="MP3 File" Size="11102882"
@@ -36694,6 +36964,11 @@
            Remixer="" Tonality="Fm" Label="" Mix="">
       <TEMPO Inizio="0.434" Bpm="123.00" Metro="4/4" Battito="3"/>
       <POSITION_MARK Name="" Type="0" Start="0.434" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.905" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="50.189" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="177.017" Num="2" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5473" Name="Mark Ronson - Nothing Breaks Like a Heart (Don Diablo Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36703,6 +36978,15 @@
            Remixer="" Tonality="Gm" Label="" Mix="">
       <TEMPO Inizio="0.025" Bpm="124.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.509" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.477" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="85.187" Num="1" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="87.122" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="180.026" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="4" Start="205.187" End="209.058" Num="4" Red="255"
+                     Green="140" Blue="0"/>
     </TRACK>
     <TRACK TrackID="5474" Name="Maroon 5 - Girls Like You (Gaullin Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36713,6 +36997,12 @@
       <TEMPO Inizio="0.144" Bpm="125.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="131.185" Bpm="125.00" Metro="4/4" Battito="2"/>
       <POSITION_MARK Name="" Type="0" Start="0.624" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="14.064" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="61.584" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="138.385" Num="2" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5475" Name="Marshmello &amp; SVDDEN DEATH - Sell Out www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36721,7 +37011,14 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Marshmello%20%26%20SVDDEN%20DEATH%20-%20Sell%20Out%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Ebm" Label="" Mix="">
       <TEMPO Inizio="0.024" Bpm="144.90" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.024" Num="0" Red="40" Green="226" Blue="20"/>
       <POSITION_MARK Name="" Type="0" Start="0.024" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="39.775" Num="1" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="53.025" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="132.528" Num="3" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5476" Name="This Jam (Vocal Dub Mix) » technosound.org"
            Artist="Med33p » technosound.org" Composer="" Album="This Jam » technosound.org"
@@ -36731,7 +37028,16 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Med33p%20-%20This%20Jam%20(Vocal%20Dub%20Mix).mp3"
            Remixer="" Tonality="Am" Label="Vicious" Mix="">
       <TEMPO Inizio="0.053" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.053" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.053" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="61.989" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="92.956" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="216.828" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="263.280" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5477" Name="In The Dark Feat. Stahsi, Simon Milan (ODD MOB Remix) [vk.com/bassplace]"
            Artist="Mike Metro" Composer="" Album="" Grouping="" Genre=""
@@ -36741,7 +37047,18 @@
            Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Mike%20Metro%20-%20In%20The%20Dark%20Feat.%20Stahsi,%20Simon%20Milan%20(ODD%20MOB%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="Odd Mob" Tonality="Em" Label="" Mix="">
       <TEMPO Inizio="0.244" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.244" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.244" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="28.369" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="103.369" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="105.244" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="255.245" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="315.245" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5478" Name="Melody (Tip Of My Tongue) (Extended Mix)"
            Artist="Mike Williams (Extended Mix)" Composer="" Album="MF220 Melody (Tip Of My Tongue)"
@@ -36754,6 +37071,19 @@
       <TEMPO Inizio="0.079" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="1.032" Bpm="126.00" Metro="4/4" Battito="3"/>
       <POSITION_MARK Name="" Type="0" Start="0.079" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.079" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="30.555" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="49.603" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="62.936" Num="3" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="64.841" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="175.317" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="205.793" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5479" Name="Nelly feat. Kelly Rowland - Dilemma www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36781,7 +37111,14 @@
            Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Nirvana%20-%20Come%20as%20You%20Are%20(Evokings%20Remix)%20%e2%84%a2Dasbeat%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="F#m" Label="" Mix="">
       <TEMPO Inizio="0.051" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.051" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.051" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="46.880" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="109.319" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="261.514" Num="3" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5482" Name="Nirvana - Smells Like Teen Spirit (RIOT 87 Remix)"
            Artist="RIOT 87" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36799,7 +37136,18 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/OFFAIAH%20-%20Trouble%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="F#m" Label="" Mix="">
       <TEMPO Inizio="0.079" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.079" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.079" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="62.015" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="170.401" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="294.272" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="340.724" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="371.691" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5484" Name="Robin Schulz &amp; Erika Sirola - Speechless (Sini Extended Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36810,7 +37158,16 @@
       <TEMPO Inizio="0.050" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="1.003" Bpm="126.00" Metro="4/4" Battito="3"/>
       <TEMPO Inizio="167.194" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.050" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.050" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="28.622" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="91.479" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="190.527" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="221.003" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5485" Name="Robin Schulz feat. Erika Sirola - Speechless (feat. Erika Sirola) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36819,7 +37176,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Robin%20Schulz%20feat.%20Erika%20Sirola%20-%20Speechless%20(feat.%20Erika%20Sirola)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Db" Label="" Mix="">
       <TEMPO Inizio="0.311" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.311" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.311" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="31.031" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="100.151" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="192.311" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="223.031" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5486" Name="Robin Schulz feat. Erika Sirola - Speechless (Lucas &amp; Steve Extended Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36839,7 +37205,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Romina,%20Franck%20Dona%20-%20No%20Education%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Dm" Label="" Mix="">
       <TEMPO Inizio="0.052" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.052" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.052" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="78.100" Num="1" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="82.003" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="148.344" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="179.563" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5488" Name="Ron Caroll - Bump to This (Muzzaik Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36848,7 +37223,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Ron%20Caroll%20-%20Bump%20to%20This%20(Muzzaik%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Abm" Label="" Mix="">
       <TEMPO Inizio="0.147" Bpm="130.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.609" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.609" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="103.993" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="133.532" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="340.301" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="399.378" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5489" Name="Round Table Knights - Calypso (MoonDark Private Re Edit) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36858,7 +37242,18 @@
            Remixer="" Tonality="Ebm" Label="" Mix="">
       <TEMPO Inizio="0.056" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="1.009" Bpm="126.00" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="0.056" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.056" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="76.247" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="91.485" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="230.533" Num="3" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="245.771" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="382.914" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5490" Name="Calypso (Original Mix)" Artist="Round Table Knights vs. Bauchamp"
            Composer="" Album="Superstar The DJ Mixes Collection Part 4"
@@ -36868,7 +37263,16 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Round%20Table%20Knights%20-%20Calypso%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Ebm" Label="Superstar Recordings" Mix="">
       <TEMPO Inizio="0.235" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.235" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.235" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="91.663" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="230.710" Num="2" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="245.948" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="383.091" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5491" Name="Seamus Haji - Last Night A DJ Saved My Life (Dr Packer Remix) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36888,6 +37292,7 @@
       <TEMPO Inizio="0.141" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="186.332" Bpm="126.00" Metro="4/4" Battito="4"/>
       <POSITION_MARK Name="" Type="0" Start="0.141" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.141" Num="0" Red="222" Green="68" Blue="207"/>
     </TRACK>
     <TRACK TrackID="5493" Name="Silk City &amp; Dua Lipa Vs Daft Punk - One More Electricity (Djs From Mars Vs Rudeejay &amp; DaBrozz Bootleg)"
            Artist="Djs From Mars" Composer="" Album="The Christmas Bootleg Pack 2018"
@@ -36897,7 +37302,14 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Silk%20City%20%26%20Dua%20Lipa%20vs%20Daft%20Punk%20-%20One%20More%20Electricity%20(Djs%20From%20Mars%20Vs%20Rudeejay%20%26%20DaBrozz%20Bootleg)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Db" Label="" Mix="">
       <TEMPO Inizio="0.027" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.027" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.027" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="31.707" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="86.427" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="188.187" Num="3" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5494" Name="Skytech, R3hab - Fuego (Extended Version) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36907,6 +37319,19 @@
            Remixer="" Tonality="C" Label="" Mix="">
       <TEMPO Inizio="0.051" Bpm="128.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.051" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.051" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="30.051" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="73.176" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="75.051" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="165.051" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="195.050" Num="5" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="210.050" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5495" Name="Split Vs Lose Yourself - Tiesto &amp; The Chainsmokers Vs Eminem (WhiteBeats Mashup) _GUETTA 2018_ FREE!"
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36914,8 +37339,19 @@
            Year="0" AverageBpm="128.00" DateAdded="2019-02-21" BitRate="320"
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Split%20Vs%20Lose%20Yourself%20-%20Tiesto%20%26%20The%20Chainsmokers%20Vs%20Eminem%20(WhiteBeats%20Mashup)%20_GUETTA%202018_%20FREE!.mp3"
            Remixer="" Tonality="Dbm" Label="" Mix="">
-      <TEMPO Inizio="0.027" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.068" Bpm="128.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.027" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.496" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.027" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="122.978" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="167.973" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="246.742" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="276.755" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5496" Name="Swedish House Mafia - Leave The World Behind (Gaullin &amp; Dwin Remake) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36952,7 +37388,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/The%20Next%20Episode%20(Liu%20Remix)%20Free%20Download.mp3"
            Remixer="" Tonality="Ebm" Label="" Mix="">
       <TEMPO Inizio="0.029" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.000" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.029" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="47.242" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="86.586" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="173.143" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="204.619" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5500" Name="The Prince Karma - Later Bitches www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36962,6 +37407,17 @@
            Remixer="" Tonality="Cm" Label="" Mix="">
       <TEMPO Inizio="0.052" Bpm="121.00" Metro="4/4" Battito="3"/>
       <POSITION_MARK Name="" Type="0" Start="0.548" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.044" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="32.780" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="84.350" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="181.540" Num="3" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="183.524" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="215.259" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5501" Name="The Prince Karma vs Wayne - The Prince Karma vs Wayne - Later Bitches ( Dj Dim Frost Mash Up ) www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -36969,13 +37425,22 @@
            Year="0" AverageBpm="126.00" DateAdded="2019-02-21" BitRate="320"
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/The%20Prince%20Karma%20vs%20Wayne%20-%20The%20Prince%20Karma%20vs%20Wayne%20-%20Later%20Bitches%20(%20Dj%20Dim%20Frost%20Mash%20Up%20)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Gm" Label="" Mix="">
-      <TEMPO Inizio="0.001" Bpm="126.00" Metro="4/4" Battito="1"/>
-      <TEMPO Inizio="0.478" Bpm="126.00" Metro="4/4" Battito="2"/>
-      <TEMPO Inizio="56.669" Bpm="126.00" Metro="4/4" Battito="4"/>
-      <TEMPO Inizio="112.860" Bpm="126.00" Metro="4/4" Battito="2"/>
-      <TEMPO Inizio="169.051" Bpm="126.00" Metro="4/4" Battito="4"/>
-      <TEMPO Inizio="225.242" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="0.049" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.526" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="56.717" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="112.908" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="169.099" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="225.290" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.049" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.478" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="45.764" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="114.812" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="161.956" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="207.670" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5502" Name="Can&apos;t Feel My Face  (Vintage Culture, Lazy Bear Boot)"
            Artist="The Weeknd" Composer="" Album="vk.com/in_deep_endurance"
@@ -36985,7 +37450,18 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/The%20Weeknd%20-%20Can%27t%20Feel%20My%20Face%20%20(Vintage%20Culture,%20Lazy%20Bear%20Boot)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Dm" Label="No Ot Label" Mix="">
       <TEMPO Inizio="0.045" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.045" Num="0" Red="48" Green="90" Blue="255"/>
       <POSITION_MARK Name="" Type="0" Start="0.045" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="31.520" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="62.996" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="133.815" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="220.372" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="267.585" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5503" Name="Seven Nation Army (Evokings Remix) (WCM)"
            Artist="The White Stripes" Composer="→ vk.com/world_club_music_o_o"
@@ -36996,7 +37472,14 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/The%20White%20Stripes%20-%20Seven%20Nation%20Army%20(Evokings%20Remix)%20(WCM)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Em" Label="" Mix="">
       <TEMPO Inizio="0.025" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.025" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.025" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="50.757" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="113.196" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="175.635" Num="3" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5504" Name="This Jam vocal Dub Mix" Artist="" Composer=""
            Album="" Grouping="" Genre="" Kind="MP3 File" Size="8350962"
@@ -37005,7 +37488,16 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/This%20Jam%20vocal%20Dub%20Mix.mp3"
            Remixer="" Tonality="Am" Label="" Mix="">
       <TEMPO Inizio="0.064" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.064" Num="0" Red="40" Green="226" Blue="20"/>
       <POSITION_MARK Name="" Type="0" Start="0.064" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="19.419" Num="1" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="34.902" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="158.773" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="4" Start="189.741" End="197.483" Num="4" Red="255"
+                     Green="140" Blue="0"/>
     </TRACK>
     <TRACK TrackID="5505" Name="Tiësto vs. TRJ &amp; VINAI - Lethal Industry vs. Bounce Generation (Hardwell Mashup)  www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -37015,6 +37507,19 @@
            Remixer="" Tonality="Am" Label="" Mix="">
       <TEMPO Inizio="0.289" Bpm="128.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.289" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.289" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="45.289" Num="1" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="58.414" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="60.289" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="120.289" Num="4" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="180.289" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="240.289" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5506" Name="Jook It (Extended Mix)" Artist="Tujamo &amp; Salvatore Ganacci feat. Richie Loop"
            Composer="" Album="Jook It [edmdl.com]" Grouping="" Genre=""
@@ -37024,7 +37529,18 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Tujamo%20%26%20Salvatore%20Ganacci%20feat.%20Richie%20Loop%20-%20Jook%20It%20(Extended%20Mix).mp3"
            Remixer="" Tonality="Db" Label="Spinnin&apos; Records" Mix="">
       <TEMPO Inizio="0.052" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.052" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.052" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.528" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="59.099" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="61.004" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="121.956" Num="4" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="167.670" Num="5" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5507" Name="Bonkers (Original Mix)" Artist="twoloud &amp; Bounce Inc. vs. Daav One"
            Composer="" Album="Bonkers [vk.com/speeeedy]" Grouping="" Genre="House"
@@ -37036,6 +37552,19 @@
       <TEMPO Inizio="0.078" Bpm="126.00" Metro="4/4" Battito="1"/>
       <TEMPO Inizio="6.269" Bpm="126.00" Metro="4/4" Battito="2"/>
       <POSITION_MARK Name="" Type="0" Start="0.078" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.078" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="30.554" Num="1" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="43.888" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="45.792" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="76.268" Num="4" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="129.602" Num="5" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="160.078" Num="6" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5508" Name="United - Hófehér Jaguár www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -37062,7 +37591,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/VINNE,%20Audax,%20Pri%20Pach%20feat.%20Babii%20Cris%20-%20For%20the%20Night%20www.my-free-mp3.net%20%20(1).mp3"
            Remixer="" Tonality="Dm" Label="" Mix="">
       <TEMPO Inizio="0.025" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.025" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.025" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="73.573" Num="1" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="77.444" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="185.831" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="232.282" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5511" Name="VINNE, Audax, Pri Pach feat. Babii Cris - For the Night www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -37080,7 +37618,16 @@
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Vintage%20Culture,%20Selva,%20Lazy%20Bear%20-%20Why%20Don%27t%20U%20Love%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Gm" Label="" Mix="">
       <TEMPO Inizio="0.052" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.052" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.052" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="51.200" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="86.610" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="224.315" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="271.528" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5513" Name="Vitoria Maria - Wonderwall www.my-free-mp3.net "
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
@@ -37099,7 +37646,16 @@
            Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/WCM%20-%20Vintage%20Culture,%20Selva,%20Lazy%20Bear%20-%20Why%20Don%27t%20U%20Love%20(Cat%20Dealers%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Gm" Label="" Mix="">
       <TEMPO Inizio="0.025" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.025" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.025" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="51.173" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="86.583" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="224.288" Num="3" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="271.501" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
     <TRACK TrackID="5515" Name="Yeah Yeah Yeahs - Heads Will Roll (Lucky Remix)"
            Artist="" Composer="" Album="" Grouping="" Genre="" Kind="Unknown Format"
@@ -37125,8 +37681,15 @@
            Year="0" AverageBpm="128.00" DateAdded="2019-02-21" BitRate="320"
            SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/%5b#MUSMoV%5d%20Ellie%20Goulding,%20Diplo,%20Swae%20Lee%20-%20Close%20To%20Me%20(Assix%20%26%20Samuel%20Xantos%20Remix)%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Abm" Label="" Mix="">
-      <TEMPO Inizio="0.358" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.136" Bpm="128.00" Metro="4/4" Battito="1"/>
       <POSITION_MARK Name="" Type="0" Start="0.358" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.084" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="47.011" Num="1" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="48.886" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="148.261" Num="3" Red="180" Green="190"
+                     Blue="4"/>
     </TRACK>
     <TRACK TrackID="5518" Name="Potter (Original Mix)" Artist="KVSH" Composer=""
            Album="POTTER" Grouping="" Genre="" Kind="MP3 File" Size="13494211"
@@ -37135,7 +37698,36 @@
            PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/%60KVSH%20-%20Potter%20(Original%20Mix)%20vk.com_jackinband%20www.my-free-mp3.net%20.mp3"
            Remixer="" Tonality="Em" Label="Not on Label" Mix="">
       <TEMPO Inizio="0.026" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.026" Num="0" Red="222" Green="68" Blue="207"/>
       <POSITION_MARK Name="" Type="0" Start="0.026" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="46.478" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="112.285" Num="2" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="232.285" Num="3" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="243.898" Num="4" Red="255" Green="18"
+                     Blue="123"/>
+      <POSITION_MARK Name="" Type="0" Start="298.091" Num="5" Red="100" Green="115"
+                     Blue="255"/>
+    </TRACK>
+    <TRACK TrackID="5519" Name="Silk City feat. Dua Lipa - Electricity www.my-free-mp3.net "
+           Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File"
+           Size="13878378" TotalTime="346" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="124.00" DateAdded="2019-02-25" BitRate="320"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/danie/OneDrive%20-%20Korm%c3%a1nyzati%20Informatikai%20Fejleszt%c3%a9si%20%c3%9cgyn%c3%b6ks%c3%a9g/DJ/2018/2019/Silk%20City%20feat.%20Dua%20Lipa%20-%20Electricity%20www.my-free-mp3.net%20.mp3"
+           Remixer="" Tonality="Am" Label="" Mix="">
+      <TEMPO Inizio="0.109" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.109" Num="0" Red="222" Green="68" Blue="207"/>
+      <POSITION_MARK Name="" Type="0" Start="0.109" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="54.303" Num="1" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="123.980" Num="2" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="216.884" Num="3" Red="180" Green="190"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="294.304" Num="4" Red="100" Green="115"
+                     Blue="255"/>
     </TRACK>
   </COLLECTION>
   <PLAYLISTS>
@@ -40898,7 +41490,7 @@
         <TRACK Key="4503"/>
         <TRACK Key="4504"/>
       </NODE>
-      <NODE Name="2019" Type="1" KeyType="0" Entries="138">
+      <NODE Name="2019" Type="1" KeyType="0" Entries="137">
         <TRACK Key="5417"/>
         <TRACK Key="5418"/>
         <TRACK Key="5419"/>
@@ -41004,6 +41596,7 @@
         <TRACK Key="5491"/>
         <TRACK Key="5492"/>
         <TRACK Key="5493"/>
+        <TRACK Key="5519"/>
         <TRACK Key="5395"/>
         <TRACK Key="5494"/>
         <TRACK Key="5396"/>
@@ -41027,13 +41620,11 @@
         <TRACK Key="5508"/>
         <TRACK Key="5509"/>
         <TRACK Key="5510"/>
-        <TRACK Key="5511"/>
         <TRACK Key="5512"/>
         <TRACK Key="5513"/>
         <TRACK Key="5416"/>
         <TRACK Key="5514"/>
         <TRACK Key="5398"/>
-        <TRACK Key="5515"/>
         <TRACK Key="5516"/>
         <TRACK Key="5517"/>
         <TRACK Key="5518"/>
